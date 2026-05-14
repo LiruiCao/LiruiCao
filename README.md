@@ -1,6 +1,6 @@
 ### Hi, I'm Lirui
 
-Senior Front-End Developer Angular | TypeScript | Banking · Payments · Wealth
+**Senior Front-End Developer** &nbsp; Angular | TypeScript | Banking · Payments · Wealth
 
 Build Angular apps for financial services — payments, wealth management, and fixed-income trading.
 
