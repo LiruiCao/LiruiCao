@@ -14,10 +14,15 @@ Previously at **RBC** for 4 years across Emerald, Edge, Sponsor Portal, and Advi
 
 ### Selected Work
 
-#### 🏦 [banking-portal](https://github.com/LiruiCao/banking-portal) &nbsp; · &nbsp; [live demo →](https://banking-portal-shell.vercel.app)
+#### 🏦 [banking-portal](https://github.com/LiruiCao/banking-portal)
 
-Micro-frontend banking portal with a complete **Interac e-Transfer** flow. Shell + Payments  
+Micro-frontend banking portal with a complete **Interac e-Transfer** flow. Shell + Payments MFE built and deployed independently   using **Angular 18 + Native Federation + NgRx**.
 
-#### 🏦 [fixed-income-dashboard](https://github.com/LiruiCao/fixed-income-dashboard) &nbsp; · &nbsp; [live demo → ](https://fixed-income-dashboard-one.vercel.app)
+Live: [Shell →](https://banking-portal-shell.vercel.app) &nbsp; · &nbsp; [Payments MFE →](https://banking-portal-payments.vercel.app)
 
-Real-time fixed-income trading dashboard with sub-second tick cadence. Angular 17 + NgRx Signal Store + AG Grid + WebSocket simulation push pipeline.
+#### 📊 [fixed-income-dashboard](https://github.com/LiruiCao/fixed-income-dashboard)
+
+Real-time fixed-income trading dashboard with sub-second tick cadence. **Angular 17 + NgRx Signal Store + AG Grid + WebSocket simulation.
+
+Live: [fixed-income-dashboard →](https://fixed-income-dashboard-one.vercel.app)
+
