@@ -1,6 +1,8 @@
 ### Hi, I'm Lirui
 
-Senior Front-End Developer based in Toronto. I build Angular apps for financial services — payments, wealth management, and fixed-income trading.
+Senior Front-End Developer Angular | TypeScript | Banking · Payments · Wealth
+
+Build Angular apps for financial services — payments, wealth management, and fixed-income trading.
 
 Previously at **RBC** for 4 years across Emerald, Edge, Sponsor Portal, and Advisor platforms. Currently focused on modern Angular (v17/18), micro-frontends, and real-time trading UX.
 
